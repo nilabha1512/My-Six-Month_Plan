@@ -9,12 +9,12 @@ I have a smile on my face. I know that I have given my best in my projects and m
 
 ## Projects & Initiatives
 
-### Professional
-### Personal
-### Health
-### Relationships
-### Wealth
-### Leisure
+1. ### Professional
+2. ### Personal
+3. ### Health
+4. ### Relationships
+5. ### Wealth
+6. ### Leisure
 
 # What is this repository all about?
 
