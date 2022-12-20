@@ -4,6 +4,8 @@ My Six Month Plan is a conscious effort to become a competent and valuable asset
 ## This is my life in Six Months
 I have a smile on my face. I know that I have given my best in my projects and my responsibilites and my exams. Yes, my exams. Why? Now, I stand at the sweet spot of 8.6 CGPA and have earned my 99th percentile in GRE (one step closer to being part of Stanford's 2024 cohort)
 
+## Overview
+
 ## Goals
 
 
